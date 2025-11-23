@@ -1,4 +1,4 @@
-## 1. Concept du produit (version claire et vendable)
+## 1. Concept du produit
 
 **Produit :**
 Une plateforme SaaS de veille et d’agrégation d’annonces (emploi, immobilier, autos, services…) qui :
