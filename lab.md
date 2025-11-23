@@ -208,7 +208,7 @@ Ici, l’idée est que tu utilises ce projet comme **laboratoire de leadership**
 
 Tu dois être capable de formuler, pour ton équipe :
 
-> “On construit une plateforme qui permet aux pros (agents immo, recruteurs, commerciaux) de ne plus perdre des heures à faire de la veille manuelle sur les annonces. On automatise la collecte des données, on les nettoie, on les enrichit, et on leur donne un outil propre, légal et fiable.”
+“On construit une plateforme qui permet aux pros (agents immo, recruteurs, commerciaux) de ne plus perdre des heures à faire de la veille manuelle sur les annonces. On automatise la collecte des données, on les nettoie, on les enrichit, et on leur donne un outil propre, légal et fiable.”
 
 Cette phrase doit être :
 
@@ -234,7 +234,7 @@ Même si vous êtes peu nombreux, clarifie les responsabilités :
 
   * Dashboard, UX, intégration graphique.
 
-* **Data / IA (même “light”) :**
+* **Data / IA :**
 
   * Nettoyage des données, déduplication, scoring, suggestions.
 
@@ -246,7 +246,7 @@ Tu peux officialiser ces rôles dans un document (RACI simple).
 
 ### 5.3 Méthode de travail (leadership opérationnel)
 
-* **Rythme type Agile/Scrum light** :
+* **Rythme type Agile/Scrum** :
 
   * Sprint de 2 semaines.
   * Planning rapide (1h), daily courte (10–15 min).
