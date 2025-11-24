@@ -157,13 +157,4 @@ Liste explicite de ce qui **ne sera pas** réalisé :
 | [Nom du chef de projet] | Chef de projet     | [JJ/MM/AAAA] |               |
 | [Nom du commanditaire]  | Client / Direction | [JJ/MM/AAAA] |               |
 
----
 
-## **Annexes**
-
-* Schéma d’architecture (si disponible)
-* Diagramme Gantt (si applicable)
-* RACI complet
-* Documents de référence (ISO, RGPD, cahier des charges initial)
-(ex. Nexa School / Clairfact),
-4. Et si tu veux la version **Cycle en V** ou **Agile (Scrum)**.
