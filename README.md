@@ -1,235 +1,290 @@
-# **JOUR 1 – Leadership & Gouvernance d’Équipe Projet IA**
+# **SYLLABUS COMPLET — MODULE LEADERSHIP**
 
-*Support de cours étudiants – Mastère Data & IA – Chef de Projet – RNCP37137*
-Durée : 7 heures
-
----
-
-# **1. Introduction générale**
-
-## 1.1. Contexte du module
-
-L’intelligence artificielle n’est pas qu’une affaire de technique : c’est avant tout une **dynamique de collaboration**, d’adaptation et de coordination.
-Le chef de projet IA doit gérer :
-
-* des profils techniques variés (Data Scientist, Data Engineer, DevOps, développeur, QA),
-* des contraintes métiers, éthiques et réglementaires,
-* des délais exigeants et une forte incertitude,
-* une diversité humaine (handicap, séniorité, différences culturelles, soft skills).
-
-Ce module vise à donner les **outils de leadership** nécessaires pour mener efficacement une équipe IA.
-
-## 1.2. Objectifs pédagogiques du module (extraits du référentiel RNCP)
-
-* **C4.4** : Manager l’équipe projet IA, répartir les rôles, organiser le travail, tenir compte des charges, contraintes humaines et situations de handicap.
-* **C4.5** : Impliquer les équipes individuellement et collectivement grâce à des dispositifs de communication adaptés, inclusifs et efficaces.
+*Mastère Data & Intelligence Artificielle — Chef de Projet IA — RNCP37137*
+Durée totale : **2 jours — 14 heures**
 
 ---
 
-# **2. Comprendre le rôle du leadership en équipe projet (3h30)**
+# **Objectifs pédagogiques du module**
 
-## 2.1. Leadership : définition adaptée au monde IA
+Conformément au référentiel RNCP, ce module vise les compétences :
 
-Dans un projet IA, le leadership n'est pas une position hiérarchique mais une **fonction d’influence** au service de l’équipe et du projet.
-Un leader IA doit :
+* **C4.4** : Manager l’équipe projet IA en définissant les objectifs, les responsabilités, la répartition des charges, et en prenant en compte les contraintes humaines, dont les situations de handicap.
+* **C4.5** : Impliquer les équipes individuellement et collectivement grâce à une communication adaptée, inclusive, engageante, permettant de suivre l’avancement, traiter les écarts et anticiper les risques.
 
-* donner du sens,
-* créer un environnement qui favorise la réussite collective,
-* accompagner les profils techniques dans la prise de décision,
-* gérer les incertitudes propres à l’IA,
-* garantir l'inclusion et la communication transparente.
-
-Le leadership technique repose sur quatre axes :
-
-1. **Vision** : définir une direction compréhensible et partageable.
-2. **Influence** : établir une crédibilité technique et comportementale.
-3. **Facilitation** : fluidifier le travail, lever les obstacles.
-4. **Responsabilité** : assumer les décisions et leur impact.
+Ce module intègre leadership, organisation, communication, gouvernance et outils opérationnels indispensables pour piloter des projets d’IA en entreprise.
 
 ---
 
-# **3. Les rôles et responsabilités : la matrice RACI**
-
-## 3.1. Pourquoi une RACI ?
-
-Dans un projet IA, l’ambiguïté des rôles est une source de conflits, de retard et de surcharges.
-La méthode RACI permet de définir précisément :
-
-* **R – Responsible** : ceux qui réalisent l’action.
-* **A – Accountable** : celui qui valide et porte la responsabilité finale.
-* **C – Consulted** : experts consultés.
-* **I – Informed** : personnes à informer.
-
-## 3.2. Exemple adapté à l’IA
-
-Pour un modèle de détection de fraude :
-
-* Data Scientist : Responsible
-* Data Engineer : Responsible
-* Chef de Projet IA : Accountable
-* Expert Métier : Consulted
-* Direction : Informed
-
-La RACI réduit :
-
-* les conflits d’expertise,
-* les doublons,
-* les zones floues,
-* les risques de surcharge.
+# **PROGRAMME COMPLET**
 
 ---
 
-# **4. Les styles de leadership (Lewin, Blanchard, Situationnel)**
+# **JOUR 1 — Leadership, Gouvernance et Communication Inspirante (7h)**
 
-## 4.1. Les trois styles de Kurt Lewin
+## **1. Comprendre le rôle du leadership dans une équipe IA (3h30)**
 
-### 1. **Leadership directif (Autoritaire)**
+### **1.1. Leadership dans les projets technologiques**
 
-* Décision centralisée
-* Adapté aux crises, deadlines serrées
-* Risque : démotivation
+* Définition du leadership appliqué à l’IA
+* Différences entre leadership, management, autorité et expertise
+* Influence, vision, communication, exemplarité
+* Responsabilité dans les projets IA (véracité des données, éthique, conformité RGPD)
 
-### 2. **Leadership participatif**
+### **1.2. Les styles de leadership (Lewin, Hersey & Blanchard)**
 
-* Décision partagée
-* Adapté aux projets IA nécessitant innovation
-* Favorise l’engagement
+* Leadership autoritaire, participatif, délégatif
+* Leadership situationnel à 4 postures : directif, persuasif, participatif, délégatif
+* Adaptation du leadership selon :
 
-### 3. **Leadership délégatif**
+  * séniorité (junior / confirmé / senior),
+  * rôle (DS, DE, DevOps, QA, PO),
+  * motivation
+  * autonomie,
+  * complexité du projet IA.
 
-* Autonomie forte
-* Adapté aux équipes expérimentées
-* Risque : dispersion si mal cadré
+### **1.3. Dynamique d’équipe (Tuckman réadapté IA)**
 
-## 4.2. Leadership situationnel (Blanchard et Hersey)
+* Phases Forming / Storming / Norming / Performing
+* Particularités IA : créativité, incertitude, itérations rapides, dependencies
+* Gestion des tensions techniques : performance du modèle, dette technique, MLOps
 
-Un bon chef de projet IA adapte son leadership selon :
+### **1.4. Les biais cognitifs dans les équipes IA**
 
-* la maturité technique,
-* l’expérience,
-* la motivation,
-* le contexte.
-
-Les quatre postures :
-
-* **Directif** : pour un junior ou une crise.
-* **Persuasif** : pour un profil motivé mais qui manque de méthode.
-* **Participatif** : pour les data scientists ou ingénieurs expérimentés.
-* **Délégatif** : pour les experts autonomes.
+* Biais d’expertise, de complexité, de confirmation
+* Biais techniques propres à la data science
+* Rôle du leader : arbitrage, neutralité, analyse systémique
 
 ---
 
-# **5. Adapter son leadership à la diversité des profils (handicap, séniorité, missions)**
+## **2. Définir les rôles et responsabilités (RACI) (1h)**
 
-## 5.1. Prise en compte du handicap
+### **2.1. Pourquoi une matrice RACI en IA ?**
 
-L’inclusion n’est pas seulement un principe légal, mais un élément de réussite collective.
-Adapter :
+* Équipes multidisciplinaires (DS, DE, DevOps, PO, QA, DPO, métier)
+* Prévenir les conflits et doublons
+* Clarifier qui valide, qui exécute, qui est consulté
 
-* rythme de travail,
-* format de communication,
-* outils,
-* conditions d’accès au matériel,
-* organisation des réunions.
+### **2.2. Construction d’une RACI complète**
 
-## 5.2. Adapter aux différences de séniorité
+* R : Responsible
+* A : Accountable
+* C : Consulted
+* I : Informed
 
-* Junior : besoin de structure, feedbacks réguliers.
-* Intermédiaire : besoin de challenges et d’autonomie progressive.
-* Senior : besoin de responsabilité, confiance, vision globale.
+### **2.3. Exemple RACI appliqué à une chaîne IA réelle**
 
-## 5.3. Adapter selon la spécialité technique
-
-* Data Scientist : autonomie conceptuelle, besoin de direction produit.
-* Data Engineer : besoin de coordination technique.
-* DevOps : besoin de visibilité, stabilité, anticipation.
-* PO : besoin d’informations techniques vulgarisées.
-* QA : besoin d'exigences claires et mesurables.
+* Définition du besoin
+* Préparation des données
+* Entraînement du modèle
+* Évaluation (métriques XAI)
+* MLOps et CI/CD
+* Documentation et conformité RGPD
 
 ---
 
-# **6. Construire un environnement collaboratif et positif**
+## **3. Créer un environnement collaboratif et inclusif (30 min)**
 
-## 6.1. Les leviers de cohésion
+### **3.1. Prise en compte de la diversité et du handicap**
 
-* Clarification des objectifs
-* Standards de communication
-* Rituels (Daily, Review, échanges informels)
-* Disponibilité du leader
-* Écoute active
+* Adaptation des supports
+* Cadre de travail inclusif
+* Ajustements organisationnels
+* Répartition équilibrée des charges
 
-## 6.2. Techniques de facilitation
+### **3.2. Techniques de facilitation**
 
 * Reformulation neutre
-* Décomposition d’un problème en éléments simples
-* Gestion de l’ordre de prise de parole
-* Suivi des décisions (compte rendu structuré)
+* Cadre de réunion positif
+* Gestion du temps de parole
+* Sécurisation psychologique
 
 ---
 
-# **7. Communiquer une vision claire et inspirante (3h30)**
+## **4. Communiquer une vision claire et inspirante (3h30)**
 
-*Partie centrale du Jour 1.*
+### **4.1. Concept de vision dans un projet IA**
 
-## 7.1. Rôle de la vision dans un projet IA
+* Donner un cap
+* Structurer les priorités
+* Aligner technique et métier
+* Définir la valeur produite et les indicateurs de succès
 
-Une vision claire permet :
+### **4.2. Techniques de storytelling**
 
-* la cohérence des décisions,
-* la motivation des équipes,
-* la gestion des conflits,
-* la priorisation des tâches.
+* Structure en 4 parties :
 
-La vision répond aux questions :
+  1. Situation actuelle
+  2. Problème
+  3. Transformation attendue
+  4. Contribution de l’équipe
 
-* Pourquoi faisons-nous ce projet ?
-* Quel impact pour l’utilisateur final ?
-* Comment vérifie-t-on la réussite ?
+* Exemples narratifs adaptés à l’IA
 
-## 7.2. Techniques de storytelling pour un projet IA
+* Contextualisation pour profils techniques vs non techniques
 
-Un bon storytelling suit 4 étapes :
+### **4.3. Communication inclusive et engageante**
 
-1. **La situation actuelle**
-2. **Le problème** (sans solution technique d’abord)
-3. **La transformation attendue**
-4. **Le rôle de l’équipe dans cette transformation**
+* Langage clair
+* Eviter les micro-agressions et les biais
+* Choisir les bons canaux (oral/écrit/schémas)
+* Rituels de communication (daily, review, one-to-one)
 
-Exemple :
-« Aujourd’hui, notre client perd 18 % de chiffre d’affaires à cause d’une mauvaise détection des tentatives de fraude. Notre projet IA va permettre d’améliorer la précision et la réactivité tout en soutenant les équipes métier. »
+### **4.4. Gestion des désaccords et conflits**
 
-## 7.3. Communication inclusive
-
-* Reformuler pour clarifier
-* Utiliser un langage accessible
-* Éviter les biais
-* Valoriser chaque membre
-* Proposer des supports multiples : oral, écrit, schémas
-
-## 7.4. Adapter la communication selon les profils
-
-* Pour les experts : profondeur technique
-* Pour les juniors : simplicité
-* Pour la direction : impact business
-* Pour les métiers : bénéfices concrets
-* Pour les PSH : supports adaptés et anticipés
+* Analyse systémique
+* Méthode DESC
+* Arbitrage factuel basé sur données et contraintes projet
 
 ---
 
-# **8. Travaux pratiques du Jour 1**
+## **5. Travaux pratiques Jour 1**
 
-## **TP1 – Construire une RACI complète**
-
-Objectif : structurer un projet IA fictif.
-Livrable : matrice RACI détaillée.
-
-## **TP2 – Identifier le style de leadership adéquat**
-
-Situation : un data scientist senior conteste une décision métier.
-Objectif : choisir la posture adaptée.
-
-## **TP3 – Construire un storytelling de vision**
-
-Objectif : formuler une vision inspirante pour l’équipe.
+* **TP1** : Construire une RACI complète pour un projet IA complexe
+* **TP2** : Analyser une situation et choisir le style de leadership adapté
+* **TP3** : Produire un storytelling de vision inspirante
+* **Mini-jeu** : Simulation d’un brief d’équipe
 
 ---
+
+# **JOUR 2 — Délégation, Montée en Compétences & Prise de Décision (7h)**
+
+---
+
+# **6. Déléguer et faire grandir son équipe (3h30)**
+
+### **6.1. Les principes de la délégation efficace**
+
+* Pourquoi déléguer ? (charge mentale, responsabilité collective, montée en compétence)
+* Délégation totale vs délégation guidée
+* Différences entre “déléguer” et “abandonner”
+
+### **6.2. Construire un plan de montée en compétences**
+
+* Évaluation des compétences techniques (framework de maturité)
+* Évaluation des compétences comportementales
+* Identification des freins : charge, motivation, environnement
+* Structuration d’un plan d’apprentissage progressif
+
+### **6.3. Conduire des entretiens individuels**
+
+* Entretien de suivi : méthode SARA
+* Entretien de motivation : questions ouvertes
+* Entretien d’objectifs : méthode SMART
+* Entretien de feedback structuré
+
+### **6.4. Communication corrective**
+
+* Traiter les écarts sans démotiver
+* Formulation factuelle
+* Co-construction de solutions
+* Définition d’actions correctives mesurables
+
+### **6.5. Jeux de rôle**
+
+* Simulation d’un entretien de recadrage
+* Simulation d’un entretien de motivation
+* Simulation d’un arbitrage entre deux rôles (DS vs DE)
+
+---
+
+# **7. Prendre des décisions dans un contexte incertain (3h30)**
+
+## **7.1. La complexité des projets IA**
+
+* Incertitude algorithmique
+* Variabilité des données
+* Choix techniques multiples
+* Contraintes RGPD, sécurité, MLOps
+  → Nécessité d’un processus décisionnel clair
+
+## **7.2. Outils de prise de décision**
+
+### **Matrice SWOT**
+
+Analyse forces / faiblesses / opportunités / menaces d’un choix IA (modèle, architecture, pipeline)
+
+### **Matrice Eisenhower**
+
+Décider rapidement : urgent / important / à déléguer / à ignorer
+
+### **6 chapeaux de Bono**
+
+Outil puissant pour structurer un débat technique, utile lorsque plusieurs solutions IA sont possibles.
+
+### **Méthode P.A.C.E. pour arbitrage IA**
+
+* Performance
+* Acceptabilité
+* Coût
+* Effort
+
+## **7.3. Impliquer l’équipe dans la décision**
+
+* Méthode des cercles de décision
+* Consentement vs consensus
+* Sélection participative de solutions (Design Sprint, conseil d’architecture)
+
+## **7.4. Anticiper les risques humains et organisationnels**
+
+* Conflits DS/DE
+* Sous-estimation de la dette data
+* Charge excessive
+* Mauvaise gestion des versions et modèles
+* Explicabilité insuffisante → tension métier
+* Documentation absente → risque organisationnel
+
+---
+
+# **8. Travaux pratiques Jour 2**
+
+### **TP4 — Construire un plan de montée en compétences**
+
+Pour un collaborateur avec difficultés techniques ou motivationnelles.
+
+### **TP5 — Simulation d’entretien individuel (jeu de rôle)**
+
+* Feedback correctif
+* Feedback positif
+* Motivation
+* Gestion de conflit
+
+### **TP6 — Prise de décision complexe**
+
+Étude d’un choix IA impliquant modèle, coût, performance, risque, conformité.
+
+---
+
+# **9. Modalités pédagogiques**
+
+Conformément au document officiel 
+
+* Analyse de cas
+* Classe inversée
+* Exercices
+* TP sur PC
+* Jeux éducatifs
+* Mise en situation
+* Travail de groupe et individuel
+* Apprentissage par projet
+
+---
+
+# **10. Modalités d’évaluation**
+
+* Étude de cas
+* QCM
+* Projet IA contextualisé
+* Exposé oral
+* Participation
+* Soutenance finale
+* Partiel ou mini-oral selon campus
+
+---
+
+# **11. Accessibilité & Cadre organisationnel**
+
+* Module adapté PSH
+* Ajustements personnalisés
+* Contact du référent handicap
+* Horaires : 9h–12h30 / 13h30–17h
