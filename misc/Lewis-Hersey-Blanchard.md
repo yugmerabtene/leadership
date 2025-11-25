@@ -420,7 +420,7 @@ Objectif : tirer parti de la maturité de l’équipe, libérer ta bande passant
 
 ---
 
-## Résumé entreprise (parallèle avec ton exemple « étudiants »)
+## Résumé entreprise
 
 * **Début de projet :**
   L’équipe est D1 sur la stack / l’organisation → tu es très directif (S1).
