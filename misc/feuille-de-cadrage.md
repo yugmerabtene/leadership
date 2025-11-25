@@ -20,8 +20,6 @@ Présentez brièvement :
 * Le **contexte existant** (infrastructure, outils, processus).
 * Les **opportunités ou contraintes** (ex. conformité ISO 27001, RGPD, budget, délais).
 
-> *Exemple :*
-> Le service comptabilité souhaite automatiser le traitement des factures électroniques en conformité avec la réforme 2026. Le projet vise à développer une application SaaS connectée aux API de la DGFiP et PEPPOL, avec un espace client sécurisé.
 
 ---
 
@@ -36,7 +34,7 @@ Décrire la finalité principale du projet.
 ### **Objectifs spécifiques**
 
 * [ ] Automatiser l’émission et la réception des factures.
-* [ ] Intégrer les API gouvernementales (PDP, PPF, etc.).
+* [ ] Intégrer les API gouvernementales par exemple.
 * [ ] Mettre en place un tableau de bord d’indicateurs (KPI, MTTR, disponibilité).
 * [ ] Respecter les normes ISO/IEC 27001, RGPD, OWASP.
 
